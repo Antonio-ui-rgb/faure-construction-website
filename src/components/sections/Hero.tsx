@@ -14,8 +14,8 @@ export function Hero() {
     >
       <div className="absolute inset-0 animate-ken-burns">
         <Image
-          src="/images/projects/transformation-front.png"
-          alt="Modern luxury home exterior transformation by Faure Construction Inc. in Puerto Rico"
+          src="/images/projects/construction-team.jpg"
+          alt="Faure Construction crew on site installing a custom marble countertop during a commercial buildout"
           fill
           priority
           sizes="100vw"

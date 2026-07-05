@@ -6,11 +6,11 @@ import { Reveal } from "@/components/ui/Reveal";
 import { site } from "@/data/site";
 
 const posts = [
-  { src: "/images/instagram/insta-03.png", alt: "Modern home exterior transformation, front view" },
-  { src: "/images/instagram/insta-04.png", alt: "Modern home exterior transformation, daylight view" },
-  { src: "/images/instagram/insta-05.png", alt: "Modern home exterior transformation, evening view" },
-  { src: "/images/instagram/insta-01.png", alt: "Home exterior before structural repair" },
-  { src: "/images/instagram/insta-02.png", alt: "Repaired home exterior and window detail" },
+  { src: "/images/projects/repair-window.png", alt: "Repaired exterior wall and window on a residential remodel" },
+  { src: "/images/projects/construction-install.jpg", alt: "Crew installing a custom marble countertop on site" },
+  { src: "/images/instagram/insta-01.jpg", alt: "Wide view of finished boutique lounge and display area" },
+  { src: "/images/instagram/insta-02.jpg", alt: "Marble bar-height counter with built-in display shelving" },
+  { src: "/images/instagram/insta-03.jpg", alt: "Boutique seating area with custom millwork and mirror" },
 ];
 
 export function InstagramFeed() {

@@ -16,7 +16,7 @@ export default function WhyFaurePage() {
         eyebrow="The Faure Difference"
         title="What Sets Us Apart."
         description="Anyone can pour concrete or paint a wall. Here's what property owners actually notice about working with us."
-        image="/images/projects/transformation-front.png"
+        image="/images/projects/repair-detail.png"
       />
       <WhyChooseFaure linkToPage={false} />
       <CTABanner />

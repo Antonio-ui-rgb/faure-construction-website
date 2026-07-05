@@ -48,10 +48,10 @@ export const metadata: Metadata = {
       "Family-owned. High-end craftsmanship. Personalized service. Unmatched quality. Discover Faure Construction Inc.",
     images: [
       {
-        url: "/images/projects/transformation-front.png",
-        width: 480,
-        height: 357,
-        alt: "Modern luxury home exterior transformation by Faure Construction Inc.",
+        url: "/images/projects/construction-team.jpg",
+        width: 1448,
+        height: 1086,
+        alt: "Faure Construction crew on site during a commercial buildout in Puerto Rico.",
       },
     ],
   },

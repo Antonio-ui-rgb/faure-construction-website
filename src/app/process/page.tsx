@@ -16,7 +16,7 @@ export default function ProcessPage() {
         eyebrow="Our Process"
         title="From First Call To Final Walkthrough."
         description="Construction goes smoother when everyone knows what happens next. Here's exactly how we work."
-        image="/images/projects/repair-exterior.png"
+        image="/images/projects/construction-tools.jpg"
       />
       <ProcessTimeline />
       <CTABanner />

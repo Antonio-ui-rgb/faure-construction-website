@@ -10,33 +10,6 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    slug: "modern-exterior-transformation",
-    title: "Modern Exterior Transformation",
-    category: "Remodeling / Exterior",
-    description:
-      "A full exterior paint transformation that took this home from faded to absolutely stunning. A modern combination of white, grey, and black completely redefined the property, with clean lines, sharp contrasts, and that signature Faure finish.",
-    highlights: [
-      "Complete exterior repaint & color redesign",
-      "Clean lines and sharp architectural contrast",
-      "Fresh, modern result built to last",
-    ],
-    heroImage: "/images/projects/transformation-front.png",
-    images: [
-      {
-        src: "/images/projects/transformation-front.png",
-        alt: "Modernized home exterior with white, grey, and black finish and red entry door",
-      },
-      {
-        src: "/images/projects/transformation-daylight.png",
-        alt: "Transformed home exterior in daylight showing garage and driveway",
-      },
-      {
-        src: "/images/projects/transformation-dusk.png",
-        alt: "Transformed home exterior with landscaping and warm evening light",
-      },
-    ],
-  },
-  {
     slug: "structural-repair-resurfacing",
     title: "Structural Repair & Resurfacing",
     category: "Remodeling / Repair",
@@ -60,6 +33,33 @@ export const projects: Project[] = [
       {
         src: "/images/projects/repair-window.png",
         alt: "Repaired exterior wall and window ready for final finish",
+      },
+    ],
+  },
+  {
+    slug: "commercial-buildout-before-after",
+    title: "Commercial Buildout — Before & After",
+    category: "Commercial Construction",
+    description:
+      "A ground-up commercial interior buildout, from framing and material staging to a fully finished retail space — custom marble surfaces, built-in millwork, and every detail checked before handoff.",
+    highlights: [
+      "On-site marble fabrication and installation by our own crew",
+      "Custom millwork and built-in display cabinetry",
+      "Protective staging kept finished areas spotless throughout the build",
+    ],
+    heroImage: "/images/projects/construction-install.jpg",
+    images: [
+      {
+        src: "/images/projects/construction-install.jpg",
+        alt: "Faure Construction crew installing a custom marble countertop mid-project, walls protected with plastic sheeting",
+      },
+      {
+        src: "/images/projects/boutique-bar-counter.jpg",
+        alt: "Finished marble bar-height counter with built-in display shelving after buildout",
+      },
+      {
+        src: "/images/projects/boutique-bar-seating.jpg",
+        alt: "Finished seating area with custom millwork and marble counter after buildout",
       },
     ],
   },

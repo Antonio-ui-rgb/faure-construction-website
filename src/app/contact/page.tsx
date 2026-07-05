@@ -15,7 +15,7 @@ export default function ContactPage() {
         eyebrow="Contact Us"
         title="Let's Talk About Your Project."
         description="Call, email, or fill out the form below — our team will follow up to schedule a walkthrough and put together a detailed estimate."
-        image="/images/projects/transformation-dusk.png"
+        image="/images/projects/boutique-bar-seating.jpg"
       />
       <Contact />
     </>

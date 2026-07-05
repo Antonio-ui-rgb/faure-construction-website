@@ -19,8 +19,8 @@ export function About() {
           <Reveal className="relative">
             <div className="relative aspect-[4/5] w-full max-w-md overflow-hidden rounded-sm">
               <Image
-                src="/images/projects/transformation-dusk.png"
-                alt="Faure Construction completed residential exterior with warm evening light and landscaping"
+                src="/images/projects/repair-exterior.png"
+                alt="Faure Construction residential exterior repair project in Puerto Rico"
                 fill
                 sizes="(min-width: 1024px) 480px, 90vw"
                 className="object-cover"
@@ -28,8 +28,8 @@ export function About() {
             </div>
             <div className="absolute -bottom-10 -right-6 hidden w-44 overflow-hidden rounded-sm border-8 border-white shadow-2xl sm:block lg:-right-10 lg:w-56">
               <Image
-                src="/images/projects/repair-detail.png"
-                alt="Close-up of precisely resurfaced stucco wall, showcasing Faure Construction craftsmanship"
+                src="/images/projects/construction-tools.jpg"
+                alt="Marble countertop installation tools on a Faure Construction job site, showcasing hands-on craftsmanship"
                 width={224}
                 height={224}
                 className="aspect-square w-full object-cover"

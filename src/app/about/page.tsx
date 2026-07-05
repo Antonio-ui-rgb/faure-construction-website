@@ -16,7 +16,7 @@ export default function AboutPage() {
         eyebrow="About Faure Construction"
         title="Family-Owned. Built On Craftsmanship."
         description="Every project we take on carries our name — so we treat it with the same care we'd give our own property."
-        image="/images/projects/transformation-dusk.png"
+        image="/images/projects/repair-window.png"
       />
       <OurStory />
       <CTABanner />

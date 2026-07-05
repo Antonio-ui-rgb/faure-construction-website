@@ -16,7 +16,7 @@ export default function ServicesPage() {
         eyebrow="Our Services"
         title="Built To Handle Every Scope Of Work."
         description="From ground-up builds to the finest interior finishes, we bring the same discipline and eye for detail to every project we take on."
-        image="/images/projects/repair-window.png"
+        image="/images/projects/construction-install.jpg"
       />
       <Services linkToPage={false} />
       <CTABanner />

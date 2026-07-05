@@ -41,7 +41,7 @@ export function Navbar() {
     >
       <Container className="flex h-20 items-center justify-between lg:h-24">
         <Link href="/" className="z-10" aria-label="Faure Construction home">
-          <Logo light={!solid} />
+          <Logo />
         </Link>
 
         <nav className="hidden items-center gap-8 xl:flex">

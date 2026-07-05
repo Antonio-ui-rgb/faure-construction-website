@@ -28,8 +28,8 @@ export function OurStory() {
           <Reveal className="lg:col-span-5">
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-sm">
               <Image
-                src="/images/projects/transformation-front.png"
-                alt="Faure Construction completed home exterior with modern white, grey, and black finish"
+                src="/images/projects/construction-tools.jpg"
+                alt="Faure Construction crew mid-installation of a custom marble countertop on a commercial job site"
                 fill
                 sizes="(min-width: 1024px) 40vw, 90vw"
                 className="object-cover"
