@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { PageHero } from "@/components/layout/PageHero";
 import { FeaturedProjects } from "@/components/sections/FeaturedProjects";
+import { BeforeAfterShowcase } from "@/components/sections/BeforeAfterShowcase";
 import { CTABanner } from "@/components/sections/CTABanner";
 
 export const metadata: Metadata = {
@@ -19,6 +20,7 @@ export default function ProjectsPage() {
         image="/images/projects/boutique-bar-counter.jpg"
       />
       <FeaturedProjects linkToPage={false} />
+      <BeforeAfterShowcase />
       <CTABanner />
     </>
   );
